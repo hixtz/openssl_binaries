@@ -1,8 +1,8 @@
 @echo off
 @set PATH=%PATH%;%~dp0bin
 
-title Win64 OpenSSL Command Prompt
-echo Win64 OpenSSL Command Prompt
+title Win32 OpenSSL Command Prompt
+echo Win32 OpenSSL Command Prompt
 echo.
 openssl version -a
 echo.
